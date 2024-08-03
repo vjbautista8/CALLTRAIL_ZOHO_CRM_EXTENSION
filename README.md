@@ -56,6 +56,6 @@ npm run build
 2. Go to `/crm_app/dist` folder, you will find `crm_app.zip`.
 3. In Zoho Widget Widget Internal Link
 ```
-/app/index.html?page=<optional>
+/index.html?page=<optional>
 ```
 4. Done
