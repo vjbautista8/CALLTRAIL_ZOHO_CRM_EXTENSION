@@ -40,7 +40,7 @@ npm run zoho-crm
 In your Zoho Creator Widget External Link
 
 ```
-https://127.0.0.1:5000/app/index.html
+https://127.0.0.1:5000/app/index.html?page=<optional>
 ```
 
 2. Edit the code like normal React JS application.
@@ -54,3 +54,8 @@ npm run build
 ```
 
 2. Go to `/crm_app/dist` folder, you will find `crm_app.zip`.
+3. In Zoho Widget Widget Internal Link
+```
+/app/index.html?page=<optional>
+```
+4. Done
