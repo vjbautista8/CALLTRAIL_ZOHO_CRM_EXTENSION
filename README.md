@@ -37,7 +37,7 @@ npm install
 npm run zoho-crm
 ```
 
-In your Zoho Creator Widget External Link
+In your Zoho CRM Widget External Link
 
 ```
 https://127.0.0.1:5000/app/index.html?page=<optional>
